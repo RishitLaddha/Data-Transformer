@@ -226,5 +226,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built using Streamlit, Pandas, and Google Gemini AI**
 
